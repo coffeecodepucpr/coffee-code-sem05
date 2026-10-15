@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1000" height="360" fill="#E6D6C1"/>
+
+<text x="500.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >O CICLO DE UM PEDIDO HTTP</text>
+<rect x="50" y="90" width="230" height="190" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="165" y="170" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#3B2A22" text-anchor="middle" >CLIENTE</text>
+<text x="165" y="202" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7A553A" text-anchor="middle" >Swagger, curl,</text>
+<text x="165" y="222" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7A553A" text-anchor="middle" >navegador</text>
+<rect x="720" y="90" width="230" height="190" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="835" y="170" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#3B2A22" text-anchor="middle" >SERVIDOR</text>
+<text x="835" y="202" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7A553A" text-anchor="middle" >a API em FastAPI</text>
+<line x1="290" y1="135" x2="710" y2="135" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="500" y="112" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >REQUISIÇÃO</text>
+<text x="500" y="160" font-family="Consolas, monospace" font-size="13" font-weight="600" fill="#3B2A22" text-anchor="middle" >POST /grupos  +  corpo JSON</text>
+<line x1="710" y1="235" x2="290" y2="235" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="500" y="212" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >RESPOSTA</text>
+<text x="500" y="262" font-family="Consolas, monospace" font-size="13" font-weight="600" fill="#3B2A22" text-anchor="middle" >201 Created  +  corpo JSON</text>
+<text x="500.0" y="326" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >um pedido, uma resposta: o cliente sempre começa a conversa</text>
+</svg>

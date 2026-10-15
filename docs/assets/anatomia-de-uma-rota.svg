@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1160 440" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1160" height="440" fill="#E6D6C1"/>
+
+<text x="580.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >ANATOMIA DE UMA ROTA DO FASTAPI</text>
+<rect x="50" y="74" width="640" height="264" rx="10" fill="#3B2A22" stroke="#7A553A" stroke-width="2"/>
+<text x="84" y="116" font-family="Consolas, monospace" font-size="15.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">@app.get("/grupos/{grupo_id}")</text>
+<text x="84" y="194" font-family="Consolas, monospace" font-size="15.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">def buscar_grupo(grupo_id: int):</text>
+<text x="84" y="272" font-family="Consolas, monospace" font-size="15.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">    return buscar_grupo_ou_404(grupo_id)</text>
+<line x1="87.0" y1="125" x2="164.97899999999998" y2="125" stroke="#B08968" stroke-width="4" stroke-linecap="round"/>
+<circle cx="125.98949999999999" cy="149" r="11" fill="#7A553A"/>
+<text x="125.98949999999999" y="154" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >1</text>
+<line x1="170.97899999999998" y1="125" x2="351.599" y2="125" stroke="#B08968" stroke-width="4" stroke-linecap="round"/>
+<circle cx="261.289" cy="149" r="11" fill="#7A553A"/>
+<text x="261.289" y="154" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >2</text>
+<line x1="87.0" y1="203" x2="230.296" y2="203" stroke="#B08968" stroke-width="4" stroke-linecap="round"/>
+<circle cx="158.648" cy="227" r="11" fill="#7A553A"/>
+<text x="158.648" y="232" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >3</text>
+<line x1="245.62699999999998" y1="203" x2="360.93" y2="203" stroke="#B08968" stroke-width="4" stroke-linecap="round"/>
+<circle cx="303.2785" cy="227" r="11" fill="#7A553A"/>
+<text x="303.2785" y="232" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >4</text>
+<line x1="124.324" y1="281" x2="454.24" y2="281" stroke="#B08968" stroke-width="4" stroke-linecap="round"/>
+<circle cx="289.282" cy="305" r="11" fill="#7A553A"/>
+<text x="289.282" y="310" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >5</text>
+<circle cx="740" cy="110" r="13" fill="#7A553A"/>
+<text x="740" y="115" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >1</text>
+<text x="766" y="115" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3B2A22" text-anchor="start" >o decorador: define o método HTTP (GET) da rota</text>
+<circle cx="740" cy="162" r="13" fill="#7A553A"/>
+<text x="740" y="167" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >2</text>
+<text x="766" y="167" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3B2A22" text-anchor="start" >o caminho, com a parte variável entre chaves</text>
+<circle cx="740" cy="214" r="13" fill="#7A553A"/>
+<text x="740" y="219" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >3</text>
+<text x="766" y="219" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3B2A22" text-anchor="start" >a função que atende o pedido</text>
+<circle cx="740" cy="266" r="13" fill="#7A553A"/>
+<text x="740" y="271" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >4</text>
+<text x="766" y="271" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3B2A22" text-anchor="start" >o parâmetro e o seu tipo: o int valida o valor</text>
+<circle cx="740" cy="318" r="13" fill="#7A553A"/>
+<text x="740" y="323" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#F3E9D7" text-anchor="middle" >5</text>
+<text x="766" y="323" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#3B2A22" text-anchor="start" >o retorno: vira o corpo JSON da resposta</text>
+<text x="580.0" y="372" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >o nome da função não aparece para o cliente: o endereço e o método vêm do decorador</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 1160 370" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1160" height="370" fill="#E6D6C1"/>
+
+<text x="580.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >ANATOMIA DE UMA RESPOSTA</text>
+<rect x="40" y="70" width="640" height="286" rx="10" fill="#3B2A22" stroke="#7A553A" stroke-width="2"/>
+<text x="64" y="102" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">HTTP/1.1 201 Created</text>
+<text x="64" y="138" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">server: uvicorn</text>
+<text x="64" y="174" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">content-length: 149</text>
+<text x="64" y="210" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">content-type: application/json</text>
+<text x="64" y="246" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">location: /grupos/7</text>
+<text x="64" y="282" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve"></text>
+<text x="64" y="318" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">{"nome_grupo":"Cálculo II na prática", ... }</text>
+<rect x="698" y="90" width="9" height="28" rx="4" fill="#B08968"/>
+<text x="726" y="102.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >LINHA DE STATUS</text>
+<text x="726" y="124.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >versão, código e frase</text>
+<rect x="698" y="126" width="9" height="136" rx="4" fill="#B08968"/>
+<text x="726" y="192.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >CABEÇALHOS</text>
+<text x="726" y="214.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >informações sobre a resposta</text>
+<rect x="698" y="270" width="9" height="64" rx="4" fill="#B08968"/>
+<text x="726" y="300.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >CORPO</text>
+<text x="726" y="322.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >depois de uma linha em branco, o grupo criado, em JSON</text>
+</svg>

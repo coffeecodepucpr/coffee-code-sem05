@@ -1,0 +1,55 @@
+<svg viewBox="0 0 1280 560" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1280" height="560" fill="#E6D6C1"/>
+
+<text x="640.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >DO ERRO DE DOMÍNIO À RESPOSTA HTTP: UM ÚNICO CAMINHO</text>
+<rect x="30.5" y="80" width="215" height="100" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="138.0" y="110" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="middle" >1. A regra levanta</text>
+<text x="138.0" y="136" font-family="Consolas, monospace" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >GrupoNaoEncontradoError</text>
+<text x="138.0" y="158" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#7A553A" text-anchor="middle" >sem falar de HTTP</text>
+<line x1="249.5" y1="130.0" x2="277.5" y2="130.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="281.5" y="80" width="215" height="100" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="389.0" y="110" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="middle" >2. O erro sobe</text>
+<text x="389.0" y="136" font-family="None" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >até o fim da rota</text>
+<text x="389.0" y="158" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#7A553A" text-anchor="middle" >nenhum try/except</text>
+<line x1="500.5" y1="130.0" x2="528.5" y2="130.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="532.5" y="80" width="215" height="100" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="640.0" y="110" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="middle" >3. O FastAPI procura</text>
+<text x="640.0" y="136" font-family="None" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >o tratador do tipo</text>
+<text x="640.0" y="158" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#7A553A" text-anchor="middle" >ErroDeDominio</text>
+<line x1="751.5" y1="130.0" x2="779.5" y2="130.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="783.5" y="80" width="215" height="100" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="891.0" y="110" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="middle" >4. O tratador monta</text>
+<text x="891.0" y="136" font-family="None" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >o status e o corpo</text>
+<text x="891.0" y="158" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#7A553A" text-anchor="middle" >erro, mensagem, detalhes</text>
+<line x1="1002.5" y1="130.0" x2="1030.5" y2="130.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1034.5" y="80" width="215" height="100" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="1142.0" y="110" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="middle" >5. O cliente recebe</text>
+<text x="1142.0" y="136" font-family="None" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >404 + JSON padrão</text>
+<text x="1142.0" y="158" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#7A553A" text-anchor="middle" >o mesmo formato sempre</text>
+<text x="640.0" y="230" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >OS QUATRO TRATADORES REGISTRADOS</text>
+<rect x="58.0" y="252" width="276" height="150" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="196.0" y="286" font-family="Consolas, monospace" font-size="14.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >ErroDeDominio</text>
+<text x="196.0" y="318" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#7A553A" text-anchor="middle" >pega: erros das regras</text>
+<text x="196.0" y="354" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >404, 409 ou 422, conforme o erro</text>
+<rect x="354.0" y="252" width="276" height="150" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="492.0" y="286" font-family="Consolas, monospace" font-size="14.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >RequestValidationError</text>
+<text x="492.0" y="318" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#7A553A" text-anchor="middle" >pega: dados inválidos (Pydantic)</text>
+<text x="492.0" y="354" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >422, com o campo de cada erro</text>
+<rect x="650.0" y="252" width="276" height="150" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="788.0" y="286" font-family="Consolas, monospace" font-size="14.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >StarletteHTTPException</text>
+<text x="788.0" y="318" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#7A553A" text-anchor="middle" >pega: rota ou método inexistente</text>
+<text x="788.0" y="354" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >404 ou 405, mantendo o Allow</text>
+<rect x="946.0" y="252" width="276" height="150" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="1084.0" y="286" font-family="Consolas, monospace" font-size="14.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >Exception</text>
+<text x="1084.0" y="318" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#3B2A22" text-anchor="middle" >pega: qualquer erro inesperado</text>
+<text x="1084.0" y="354" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >500 genérico, e o detalhe vai ao log</text>
+<rect x="58.0" y="448" width="1164" height="74" rx="10" fill="#F3E9D7" stroke="#7A553A" stroke-width="2"/>
+<text x="640.0" y="482" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#3B2A22" text-anchor="middle" >o FastAPI escolhe o tratador mais específico para o tipo do erro:</text>
+<text x="640.0" y="506" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#7A553A" text-anchor="middle" >um erro de domínio nunca cai no tratador genérico de Exception</text>
+</svg>

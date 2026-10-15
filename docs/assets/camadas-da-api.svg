@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1200" height="500" fill="#E6D6C1"/>
+
+<text x="600.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >AS TRÊS CAMADAS DO PROJETO EM PACOTES</text>
+<rect x="50" y="80" width="560" height="96" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="74" y="116" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#3B2A22" text-anchor="start" >ROTAS</text>
+<text x="586" y="116" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="end" >routers/*.py</text>
+<text x="74" y="148" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#3B2A22" text-anchor="start" >recebem o pedido HTTP, usam os modelos e devolvem a resposta</text>
+<line x1="330.0" y1="179" x2="330.0" y2="211" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="50" y="214" width="560" height="96" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="74" y="250" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#3B2A22" text-anchor="start" >REGRAS</text>
+<text x="586" y="250" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="end" >regras.py</text>
+<text x="74" y="282" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#3B2A22" text-anchor="start" >decidem: a matéria existe? o nome está livre? o grupo existe?</text>
+<line x1="330.0" y1="313" x2="330.0" y2="345" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="50" y="348" width="560" height="96" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="74" y="384" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#3B2A22" text-anchor="start" >DADOS</text>
+<text x="586" y="384" font-family="Consolas, monospace" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="end" >dados.py</text>
+<text x="74" y="416" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#3B2A22" text-anchor="start" >guardam as informações (aqui, em memória)</text>
+<rect x="700" y="130" width="450" height="250" rx="12" fill="#F3E9D7" stroke="#7A553A" stroke-width="2" stroke-dasharray="8 5"/>
+<text x="925.0" y="170" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#7A553A" text-anchor="middle" >O QUE AINDA INCOMODA</text>
+<rect x="730" y="192" width="390" height="52" rx="10" fill="#3B2A22" stroke="#7A553A" stroke-width="2"/>
+<text x="750" y="224" font-family="Consolas, monospace" font-size="13.5" font-weight="600" fill="#F3E9D7" text-anchor="start" >from fastapi import HTTPException</text>
+<text x="736" y="280" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B2A22" text-anchor="start" >- a camada de REGRAS conhece o framework web</text>
+<text x="736" y="310" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B2A22" text-anchor="start" >- testar uma regra exige o FastAPI</text>
+<text x="736" y="340" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#3B2A22" text-anchor="start" >- trocar o framework obriga a reescrever as regras</text>
+<line x1="616" y1="262.0" x2="694" y2="262.0" stroke="#7A553A" stroke-width="3" stroke-dasharray="7 5" marker-end="url(#arrow)"/>
+<text x="600.0" y="470" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >o Módulo 15 resolve isso invertendo a direção da dependência</text>
+</svg>

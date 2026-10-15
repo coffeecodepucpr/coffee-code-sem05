@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1160 330" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1160" height="330" fill="#E6D6C1"/>
+
+<text x="580.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >ANATOMIA DE UMA REQUISIÇÃO</text>
+<rect x="40" y="70" width="640" height="250" rx="10" fill="#3B2A22" stroke="#7A553A" stroke-width="2"/>
+<text x="64" y="102" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">POST /grupos HTTP/1.1</text>
+<text x="64" y="138" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">Host: 127.0.0.1:8000</text>
+<text x="64" y="174" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">Content-Type: application/json</text>
+<text x="64" y="210" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">Content-Length: 58</text>
+<text x="64" y="246" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve"></text>
+<text x="64" y="282" font-family="Consolas, monospace" font-size="14.5" font-weight="600" fill="#F3E9D7" text-anchor="start" xml:space="preserve">{"nome_grupo": "Cálculo II na prática", "materia_id": 1}</text>
+<rect x="698" y="90" width="9" height="28" rx="4" fill="#B08968"/>
+<text x="726" y="102.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >LINHA INICIAL</text>
+<text x="726" y="124.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >método, caminho e versão</text>
+<rect x="698" y="126" width="9" height="100" rx="4" fill="#B08968"/>
+<text x="726" y="174.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >CABEÇALHOS</text>
+<text x="726" y="196.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >um por linha, no formato Nome: valor</text>
+<rect x="698" y="234" width="9" height="64" rx="4" fill="#B08968"/>
+<text x="726" y="264.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="start" >CORPO</text>
+<text x="726" y="286.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#7A553A" text-anchor="start" >depois de uma linha em branco, os dados enviados, em JSON</text>
+</svg>

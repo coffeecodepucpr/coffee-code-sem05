@@ -1,0 +1,65 @@
+<svg viewBox="0 0 1180 764" xmlns="http://www.w3.org/2000/svg" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7A553A"/>
+  </marker>
+    
+  </defs>
+  <rect x="0" y="0" width="1180" height="764" fill="#E6D6C1"/>
+
+<text x="590.0" y="34" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#7A553A" text-anchor="middle" >QUAL STATUS DEVOLVER: AS PERGUNTAS, NESTA ORDEM</text>
+<rect x="40" y="70" width="560" height="74" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="320.0" y="114" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="middle" >O método existe nessa rota?</text>
+<line x1="604" y1="107.0" x2="774" y2="107.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="690.0" y="95.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#7A553A" text-anchor="middle" >não</text>
+<rect x="780" y="70" width="340" height="74" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="116" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#3B2A22" text-anchor="middle" >405</text>
+<text x="898" y="114" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >Method Not Allowed</text>
+<line x1="320.0" y1="146" x2="320.0" y2="182" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="336.0" y="169.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#7A553A" text-anchor="start" >sim</text>
+<rect x="40" y="184" width="560" height="74" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="320.0" y="228" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="middle" >O corpo e os parâmetros têm formato e valores válidos?</text>
+<line x1="604" y1="221.0" x2="774" y2="221.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="690.0" y="209.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#7A553A" text-anchor="middle" >não</text>
+<rect x="780" y="184" width="340" height="74" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="230" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#3B2A22" text-anchor="middle" >422</text>
+<text x="898" y="228" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >Unprocessable Content</text>
+<line x1="320.0" y1="260" x2="320.0" y2="296" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="336.0" y="283.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#7A553A" text-anchor="start" >sim</text>
+<rect x="40" y="298" width="560" height="74" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="320.0" y="342" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="middle" >O recurso do endereço existe?</text>
+<line x1="604" y1="335.0" x2="774" y2="335.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="690.0" y="323.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#7A553A" text-anchor="middle" >não</text>
+<rect x="780" y="298" width="340" height="74" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="344" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#3B2A22" text-anchor="middle" >404</text>
+<text x="898" y="342" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >Not Found</text>
+<line x1="320.0" y1="374" x2="320.0" y2="410" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="336.0" y="397.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#7A553A" text-anchor="start" >sim</text>
+<rect x="40" y="412" width="560" height="74" rx="10" fill="#D6BFA6" stroke="#7A553A" stroke-width="2"/>
+<text x="320.0" y="456" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="middle" >O pedido entra em conflito com o estado atual?</text>
+<line x1="604" y1="449.0" x2="774" y2="449.0" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="690.0" y="437.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#7A553A" text-anchor="middle" >sim</text>
+<rect x="780" y="412" width="340" height="74" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="458" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#3B2A22" text-anchor="middle" >409</text>
+<text x="898" y="456" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >Conflict</text>
+<line x1="320.0" y1="488" x2="320.0" y2="524" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="336.0" y="511.0" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#7A553A" text-anchor="start" >não</text>
+<rect x="40" y="526" width="560" height="150" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="320.0" y="562" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#3B2A22" text-anchor="middle" >O pedido deu certo. O que a rota faz?</text>
+<text x="320.0" y="606" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3B2A22" text-anchor="middle" >criou um recurso novo</text>
+<text x="320.0" y="630" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3B2A22" text-anchor="middle" >devolve dados</text>
+<text x="320.0" y="654" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#3B2A22" text-anchor="middle" >não há nada para devolver</text>
+<line x1="604" y1="592" x2="774" y2="556" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="780" y="534" width="340" height="40" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="562" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B2A22" text-anchor="middle" >201</text>
+<text x="898" y="561" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >Created</text>
+<line x1="604" y1="616" x2="774" y2="602" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="780" y="580" width="340" height="40" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="608" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B2A22" text-anchor="middle" >200</text>
+<text x="898" y="607" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >OK</text>
+<line x1="604" y1="640" x2="774" y2="648" stroke="#7A553A" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="780" y="626" width="340" height="40" rx="10" fill="#B08968" stroke="#7A553A" stroke-width="2"/>
+<text x="840" y="654" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#3B2A22" text-anchor="middle" >204</text>
+<text x="898" y="653" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#3B2A22" text-anchor="start" >No Content</text>
+<text x="590.0" y="734" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#7A553A" text-anchor="middle" >e, se o próprio código quebrar sem ser tratado: 500 Internal Server Error</text>
+</svg>
