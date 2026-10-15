@@ -1,5 +1,7 @@
 # Módulo 16, Tratamento Global de Erros
 
+Português · [English](../docs-eng/16-global-error-handling.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -310,6 +312,6 @@ Resposta: o de `ErroDeDominio`. O FastAPI procura o tratador do tipo **mais espe
 
 ---
 
-**Próximo módulo:** `17-testes-automatizados.md`, um módulo bônus da trilha veterano, ou `entregavel.md` para a revisão final.
+**Próximo módulo:** `17-testes-automatizados.md`: um módulo bônus da trilha veterano, ou `entregavel.md` para a revisão final.
 
 `Material de Estudo // Coffee & Code`

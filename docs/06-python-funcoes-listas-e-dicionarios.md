@@ -1,5 +1,7 @@
 # Módulo 06, Python: Funções, Listas e Dicionários
 
+Português · [English](../docs-eng/06-python-functions-lists-and-dictionaries.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -249,6 +251,6 @@ Resposta: porque `grupos[grupo_id]` interrompe o programa com um `KeyError` quan
 
 ---
 
-**Próximo módulo:** `07-sua-primeira-api-com-fastapi.md`, a linguagem está pronta. Hora de instalar o FastAPI e fazer a primeira API responder.
+**Próximo módulo:** `07-sua-primeira-api-com-fastapi.md`: a linguagem está pronta. Hora de instalar o FastAPI e fazer a primeira API responder.
 
 `Material de Estudo // Coffee & Code`

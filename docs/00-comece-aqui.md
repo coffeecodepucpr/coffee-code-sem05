@@ -1,5 +1,7 @@
 # Módulo 00, Comece Aqui
 
+Português · [English](../docs-eng/00-start-here.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -77,6 +79,6 @@ Cada módulo é um arquivo independente, mas foram escritos para serem lidos nes
 
 ---
 
-**Próximo módulo:** `01-o-que-e-uma-api-rest.md`, antes de escrever qualquer código, entenda o que é uma API e por que ela segue um estilo chamado REST.
+**Próximo módulo:** `01-o-que-e-uma-api-rest.md`: antes de escrever qualquer código, entenda o que é uma API e por que ela segue um estilo chamado REST.
 
 `Material de Estudo // Coffee & Code`

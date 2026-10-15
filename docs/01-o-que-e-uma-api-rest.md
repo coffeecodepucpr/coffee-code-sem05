@@ -1,5 +1,7 @@
 # Módulo 01, O que é uma API REST
 
+Português · [English](../docs-eng/01-what-is-a-rest-api.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -155,6 +157,6 @@ Resposta: o problema é que o verbo "criar" está dentro do endereço. Para apag
 
 ---
 
-**Próximo módulo:** `02-http-na-pratica.md`, a conversa entre cliente e servidor acontece por um protocolo chamado HTTP. Hora de ver como ele é por dentro.
+**Próximo módulo:** `02-http-na-pratica.md`: a conversa entre cliente e servidor acontece por um protocolo chamado HTTP. Hora de ver como ele é por dentro.
 
 `Material de Estudo // Coffee & Code`

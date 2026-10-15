@@ -1,5 +1,7 @@
 # Módulo 11, CRUD: Criar, Atualizar e Apagar
 
+Português · [English](../docs-eng/11-crud-creating-updating-and-deleting.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -270,6 +272,6 @@ Resposta: `409 Conflict`. O corpo está **bem formado**: todos os campos têm o 
 
 ---
 
-**Próximo módulo:** `12-swagger-na-pratica.md`, a API está completa. Falta aprender a documentá-la e a usar o Swagger como ferramenta de teste de verdade.
+**Próximo módulo:** `12-swagger-na-pratica.md`: a API está completa. Falta aprender a documentá-la e a usar o Swagger como ferramenta de teste de verdade.
 
 `Material de Estudo // Coffee & Code`

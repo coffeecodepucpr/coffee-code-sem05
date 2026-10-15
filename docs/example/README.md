@@ -1,5 +1,7 @@
 # Exemplos executáveis, Semana 05
 
+Português · [English](../../docs-eng/example/README.md)
+
 Esta pasta reúne tudo que pode ser executado nesta semana. É referência, e não gabarito obrigatório: a sua API precisa aplicar os mesmos conceitos, não ser igual a esta.
 
 ## Ambiente em que tudo foi testado

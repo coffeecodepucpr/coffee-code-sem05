@@ -1,5 +1,7 @@
 # Desafios, Semana 05
 
+Português · [English](../docs-eng/challenges.md)
+
 Desafios opcionais, organizados pelos módulos da semana. Nenhum é obrigatório para a entrega básica; veja `entregavel.md` para o que é obrigatório. Use estes desafios se terminou os módulos principais e quer se aprofundar, ou se quer deixar a API mais robusta.
 
 ---

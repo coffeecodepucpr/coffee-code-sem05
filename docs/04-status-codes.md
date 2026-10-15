@@ -1,5 +1,7 @@
 # Módulo 04, Status Codes
 
+Português · [English](../docs-eng/04-status-codes.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -204,6 +206,6 @@ Resposta: o problema é que um erro **da pessoa** (um valor que não existe) est
 
 ---
 
-**Próximo módulo:** `05-python-ambiente-tipos-e-decisoes.md`, a teoria de HTTP está pronta. Hora de preparar o ambiente e aprender a linguagem em que a API será escrita.
+**Próximo módulo:** `05-python-ambiente-tipos-e-decisoes.md`: a teoria de HTTP está pronta. Hora de preparar o ambiente e aprender a linguagem em que a API será escrita.
 
 `Material de Estudo // Coffee & Code`

@@ -1,5 +1,7 @@
 # Módulo 08, Rotas e Parâmetros
 
+Português · [English](../docs-eng/08-routes-and-parameters.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -203,6 +205,6 @@ Resposta: a validação de tipo só garante que `-5` é um inteiro. Cabe à **su
 
 ---
 
-**Próximo módulo:** `09-modelos-com-pydantic.md`, os parâmetros de URL servem para valores simples. Para receber um grupo inteiro, em JSON, entram os modelos.
+**Próximo módulo:** `09-modelos-com-pydantic.md`: os parâmetros de URL servem para valores simples. Para receber um grupo inteiro, em JSON, entram os modelos.
 
 `Material de Estudo // Coffee & Code`

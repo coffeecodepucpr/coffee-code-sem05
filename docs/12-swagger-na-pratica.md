@@ -1,5 +1,7 @@
 # Módulo 12, Swagger na Prática
 
+Português · [English](../docs-eng/12-swagger-in-practice.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -218,6 +220,6 @@ Resposta: o Swagger mostra a descrição **antiga**, porque ela vem do `response
 
 ---
 
-**Próximo módulo:** `13-projeto-guiado.md`, todas as peças estão prontas. Hora de montar a API completa do início ao fim.
+**Próximo módulo:** `13-projeto-guiado.md`: todas as peças estão prontas. Hora de montar a API completa do início ao fim.
 
 `Material de Estudo // Coffee & Code`

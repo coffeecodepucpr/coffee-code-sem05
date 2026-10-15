@@ -1,5 +1,7 @@
 # Módulo 09, Modelos com Pydantic
 
+Português · [English](../docs-eng/09-models-with-pydantic.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -274,6 +276,6 @@ Resposta: porque quem **cria** o grupo não deve escolher o identificador nem a 
 
 ---
 
-**Próximo módulo:** `10-crud-lendo-dados.md`, com os modelos prontos, é hora de implementar de verdade as rotas do CRUD, começando pela leitura.
+**Próximo módulo:** `10-crud-lendo-dados.md`: com os modelos prontos, é hora de implementar de verdade as rotas do CRUD, começando pela leitura.
 
 `Material de Estudo // Coffee & Code`

@@ -1,5 +1,7 @@
 # Coffee & Code | SEM 05 | API RESTful Central (Parte 1: CRUD)
 
+Português · [English](README.en.md)
+
 ```text
 > module: sem-05
 > tema: api restful central (crud)
@@ -12,6 +14,8 @@ Material da **Semana 05** da trilha do Coffee & Code, clube de tecnologia fundad
 Esta semana leva uma pessoa que nunca construiu uma API até uma API de CRUD funcionando, validada e documentada com o Swagger: Python, FastAPI, métodos HTTP e status codes.
 
 > **Semana independente:** ela não exige nenhuma outra semana do clube. Python, HTTP e o projeto de exemplo são apresentados do zero.
+
+> **Sobre o idioma:** o material em inglês fica em [`docs-eng/`](docs-eng/), com a mesma estrutura de [`docs/`](docs/); os READMEs têm versão em inglês com o sufixo `.en.md`.
 
 ## Por onde começar
 

@@ -1,5 +1,7 @@
 # Módulo 07, Sua Primeira API com FastAPI
 
+Português · [English](../docs-eng/07-your-first-api-with-fastapi.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -235,6 +237,6 @@ Resposta: `/sobre`. O endereço e o método vêm do **decorador**, e o nome da f
 
 ---
 
-**Próximo módulo:** `08-rotas-e-parametros.md`, as rotas desta etapa não recebem nada. A seguir, como receber valores pela URL, com validação automática.
+**Próximo módulo:** `08-rotas-e-parametros.md`: as rotas desta etapa não recebem nada. A seguir, como receber valores pela URL, com validação automática.
 
 `Material de Estudo // Coffee & Code`

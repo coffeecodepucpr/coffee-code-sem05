@@ -1,5 +1,7 @@
 # Módulo 17, Testes Automatizados
 
+Português · [English](../docs-eng/17-automated-tests.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -301,6 +303,6 @@ Resposta: porque os testes podem criar, alterar e apagar grupos. Se todos usasse
 
 ---
 
-**Próximo módulo:** `18-filtros-ordenacao-e-paginacao.md`, o outro módulo bônus da trilha veterano.
+**Próximo módulo:** `18-filtros-ordenacao-e-paginacao.md`: o outro módulo bônus da trilha veterano.
 
 `Material de Estudo // Coffee & Code`

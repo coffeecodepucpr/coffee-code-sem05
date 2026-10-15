@@ -1,5 +1,7 @@
 # Módulo 13, Projeto Guiado: A API de Grupos de Estudo
 
+Português · [English](../docs-eng/13-guided-project.md)
+
 `SEM 05 // API RESTful Central`
 
 ---

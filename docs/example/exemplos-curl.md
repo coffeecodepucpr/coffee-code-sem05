@@ -1,5 +1,7 @@
 # Exemplos de requisições, Semana 05
 
+Português · [English](../../docs-eng/example/curl-examples.md)
+
 Este arquivo reúne as requisições com `curl` usadas nos módulos, com as respostas **reais** de uma execução da API (`example/api-basica`, servidor ligado com `fastapi dev main.py`).
 
 Execute **na ordem**: algumas dependem das anteriores (o grupo 7 é criado no `POST`, e só depois alterado e apagado). O cabeçalho `date` foi omitido, e o valor de `criado_em` muda a cada execução.

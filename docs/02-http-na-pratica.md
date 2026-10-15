@@ -1,5 +1,7 @@
 # Módulo 02, HTTP na Prática
 
+Português · [English](../docs-eng/02-http-in-practice.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -212,6 +214,6 @@ Resposta: porque o corpo chega apenas como uma sequência de caracteres, e o ser
 
 ---
 
-**Próximo módulo:** `03-metodos-http.md`, a primeira palavra de uma requisição é o método. Ele diz qual ação você quer fazer com o recurso.
+**Próximo módulo:** `03-metodos-http.md`: a primeira palavra de uma requisição é o método. Ele diz qual ação você quer fazer com o recurso.
 
 `Material de Estudo // Coffee & Code`

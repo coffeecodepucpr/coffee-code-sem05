@@ -1,5 +1,7 @@
 # Módulo 05, Python: Ambiente, Tipos e Decisões
 
+Português · [English](../docs-eng/05-python-environment-types-and-decisions.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -258,6 +260,6 @@ Resposta: porque cada projeto pode precisar de versões diferentes das mesmas bi
 
 ---
 
-**Próximo módulo:** `06-python-funcoes-listas-e-dicionarios.md`, com o ambiente pronto e a base da linguagem, falta organizar a lógica em funções e guardar dados em listas e dicionários.
+**Próximo módulo:** `06-python-funcoes-listas-e-dicionarios.md`: com o ambiente pronto e a base da linguagem, falta organizar a lógica em funções e guardar dados em listas e dicionários.
 
 `Material de Estudo // Coffee & Code`

@@ -1,5 +1,7 @@
 # Módulo 10, CRUD: Lendo Dados
 
+Português · [English](../docs-eng/10-crud-reading-data.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -235,6 +237,6 @@ Resposta: `GET /grupos/99` aponta para **um item específico** que não existe, 
 
 ---
 
-**Próximo módulo:** `11-crud-criar-atualizar-e-apagar.md`, a leitura está pronta. Falta o resto do CRUD: criar, atualizar e apagar.
+**Próximo módulo:** `11-crud-criar-atualizar-e-apagar.md`: a leitura está pronta. Falta o resto do CRUD: criar, atualizar e apagar.
 
 `Material de Estudo // Coffee & Code`

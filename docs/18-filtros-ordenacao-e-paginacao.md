@@ -1,5 +1,7 @@
 # Módulo 18, Filtros, Ordenação e Paginação
 
+Português · [English](../docs-eng/18-filtering-sorting-and-pagination.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -207,6 +209,6 @@ Resposta: deve valer **1**, o número de grupos que atendem ao filtro `q=prátic
 
 ---
 
-**Próximo passo:** `entregavel.md`, a revisão final de tudo que a Semana 05 pediu.
+**Próximo passo:** `entregavel.md`: a revisão final de tudo que a Semana 05 pediu.
 
 `Material de Estudo // Coffee & Code`

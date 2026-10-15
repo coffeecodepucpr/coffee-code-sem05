@@ -1,5 +1,7 @@
 # Entregável, Semana 05
 
+Português · [English](../docs-eng/deliverable.md)
+
 `SEM 05 // API RESTful Central`
 
 Use este arquivo como checklist final antes de considerar a Semana 05 concluída. Ele reúne o que é **obrigatório**; os desafios extras em `desafios.md` e os Módulos 14 a 18 da trilha veterano são opcionais.

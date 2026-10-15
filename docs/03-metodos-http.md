@@ -1,5 +1,7 @@
 # Módulo 03, Métodos HTTP
 
+Português · [English](../docs-eng/03-http-methods.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -134,6 +136,6 @@ Resposta: não. Idempotência diz respeito ao **estado final** do servidor, e n�
 
 ---
 
-**Próximo módulo:** `04-status-codes.md`, o método diz o que você quer fazer. O código de status diz o que aconteceu.
+**Próximo módulo:** `04-status-codes.md`: o método diz o que você quer fazer. O código de status diz o que aconteceu.
 
 `Material de Estudo // Coffee & Code`

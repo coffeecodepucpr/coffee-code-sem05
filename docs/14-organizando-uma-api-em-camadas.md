@@ -1,5 +1,7 @@
 # Módulo 14, Organizando uma API em Camadas
 
+Português · [English](../docs-eng/14-organizing-an-api-in-layers.md)
+
 `SEM 05 // API RESTful Central`
 
 ---
@@ -229,6 +231,6 @@ Resposta: o endereço final será `/grupos/grupos`, porque o prefixo do router �
 
 ---
 
-**Próximo módulo:** `15-clean-architecture-no-fastapi.md`, as camadas existem, mas a dependência ainda aponta para o lado errado. Hora de invertê-la.
+**Próximo módulo:** `15-clean-architecture-no-fastapi.md`: as camadas existem, mas a dependência ainda aponta para o lado errado. Hora de invertê-la.
 
 `Material de Estudo // Coffee & Code`
